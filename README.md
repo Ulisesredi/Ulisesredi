@@ -19,6 +19,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ulisesredi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ulisesredi&show_icons=true&hide_border=true" />
+[![Ulisesredi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulisesredi)](https://github.com/Ulisesredi/github-readme-stats)
 
 </details>
