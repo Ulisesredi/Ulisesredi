@@ -23,4 +23,4 @@
 
 ## My favorite repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ulisesredi&repo=Monthly-Budget)](https://github.com/Ulisesredi/Monthly-Budget)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ulisesredi&repo=Monthly-Budget&theme=tokyonight)](https://github.com/Ulisesredi/Monthly-Budget)
