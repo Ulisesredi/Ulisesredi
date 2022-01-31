@@ -17,6 +17,6 @@
 
 ## Some stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true&theme=dark" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=merko" />
