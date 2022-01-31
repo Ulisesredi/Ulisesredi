@@ -15,12 +15,16 @@
             height=25></a> 
 </p>
 
+## Main technologies
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/React.svg"
+
 ## Some stats
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true&theme=tokyonight" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=tokyonight" />
 
-## My favorite repos
+## My personal favorite repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ulisesredi&repo=Monthly-Budget&theme=tokyonight)](https://github.com/Ulisesredi/Monthly-Budget)
