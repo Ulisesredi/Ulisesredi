@@ -1,4 +1,4 @@
-### Hi there, I'm Ulises ([@Ulisesredi](https://www.linkedin.com/in/ulises-redi-377a52206/))
+# Hi there, I'm Ulises ([@Ulisesredi](https://www.linkedin.com/in/ulises-redi-377a52206/))
 
 ## I'm a Student and Developer
 
@@ -20,3 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true&theme=tokyonight" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=tokyonight" />
+
+## My favorite repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ulisesredi&repo=Monthly-Budget)](https://github.com/Ulisesredi/Monthly-Budget)
