@@ -15,13 +15,8 @@
             height=25></a> 
 </p>
 
-## <br/>
-
 ## Some stats
 
-<a href="https://github.com/Ulisesredi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true" />
-</a>
-<a href="https://github.com/Ulisesredi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true&theme=radical" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=radical" />
