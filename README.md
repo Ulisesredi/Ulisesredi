@@ -1,10 +1,11 @@
-### Hi there, I'm [@Ulisesredi](https://www.linkedin.com/in/ulises-redi-377a52206/)
+### Hi there, I'm Ulises ([@Ulisesredi](https://www.linkedin.com/in/ulises-redi-377a52206/))
 
 ## I'm a Student and Developer
 
 - 📘 Computer Engineering Student
 - 💻 Full Stack Developer
 - 👾 Specialized in Front End technologies
+- 🔨 Currently developing for [Folder IT](https://www.linkedin.com/company/folderit/)
 
 ### Connect with me:
 
