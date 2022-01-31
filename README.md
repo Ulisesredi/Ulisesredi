@@ -5,7 +5,7 @@
 - 📘 Computer Engineering Student
 - 💻 Full Stack Developer
 - 👾 Specialized in Front End technologies
-- 🔨 Currently developing for [Folder IT](https://www.linkedin.com/company/folderit/)
+- 🔨 Currently developing for [Folder IT](https://folderit.net/)
 
 ## You can find me at:
 
@@ -31,9 +31,6 @@
 </a>
 <a href="https://www.javascript.com/">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-</a>
-<a href="https://nodejs.org/en/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
 </a>
 <a href="https://nodejs.org/en/">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
