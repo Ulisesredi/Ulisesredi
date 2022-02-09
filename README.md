@@ -4,7 +4,6 @@
 
 - 📘 Computer Engineering Student
 - 💻 Full Stack Developer
-- 👾 Specialized in Front End technologies
 - 🔨 Currently developing for [Folder IT](https://folderit.net/)
 
 ## You can find me at:
