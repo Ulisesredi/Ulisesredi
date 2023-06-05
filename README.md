@@ -1,8 +1,6 @@
 # Hi there, I'm Ulises ([@Ulisesredi](https://www.linkedin.com/in/ulises-redi-377a52206/))
 
-## I'm a Student and Developer
-
-- 📘 Computer Engineering Student
+## I'm a Fullstack Developer
 - 💻 Full Stack Developer
 - 🔨 Currently developing for [Folder IT](https://folderit.net/)
 
