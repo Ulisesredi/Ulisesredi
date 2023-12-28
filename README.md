@@ -12,26 +12,6 @@
             height=25></a> 
 </p>
 
-## Main technologies
-
-<a href="https://reactjs.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
-</a>
-<a href="https://redux.js.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/redux.svg" />
-</a>
-<a href="https://nextjs.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg" />
-</a>
-<a href="https://www.typescriptlang.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
-</a>
-<a href="https://www.javascript.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-</a>
-<a href="https://nodejs.org/en/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
-</a>
 
 ## Some stats
 
