@@ -2,12 +2,12 @@
 
 ## I'm a Fullstack Developer
 - 💻 Full Stack Developer
-- 🔨 Currently developing for [Folder IT](https://folderit.net/)
+- 🔨 Currently developing for [OhMD](https://www.ohmd.com/)
 
 ## You can find me at:
 
 <p>
-    <a href="https://www.linkedin.com/in/ulises-redi-377a52206/"><img
+    <a href="https://www.linkedin.com/in/ulises-redi/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             height=25></a> 
 </p>
