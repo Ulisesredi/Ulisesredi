@@ -3,6 +3,8 @@
 ## About me:
 - 💻 Full Stack Developer
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently developing for [OhMD](https://www.ohmd.com/)
+- 🎸 Guitar player on my free times.
+- 🤸 Also love to practice sports, such as Basketball and Calisthenics.
 
 ## 🛠 Current work stack:
 - Next.js
