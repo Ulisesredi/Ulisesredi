@@ -2,7 +2,7 @@
 
 ## About me:
 - 💻 Full Stack Developer
-- <b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Currently developing for [OhMD](https://www.ohmd.com/)</b> 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently developing for [OhMD](https://www.ohmd.com/)
 
 ## You can find me at:
 
