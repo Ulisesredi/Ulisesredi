@@ -4,6 +4,23 @@
 - 💻 Full Stack Developer
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently developing for [OhMD](https://www.ohmd.com/)
 
+## 🛠 Current work stack:
+- Next.js
+- GraphQL
+- Elixir LS
+- Ash Framework
+
+## 🌱 Currently Learning:
+I'm currently trying to get deeper on backend technologies, and some other tools, to complement my frontend experience. For this i'm currently learning:
+- TypeORM
+- Docker
+- Node.js
+
+## 🏃 Next Steps:
+- GraphQL Server
+- Nest.js
+- AWS
+
 ## You can find me at:
 
 <p>
@@ -15,7 +32,7 @@
 
 ## Some stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true&theme=tokyonight" />
+ <p align="center" > <img src="https://github-readme-stats.vercel.app/api?username=Ulisesredi&show_icons=true&theme=tokyonight" /> </p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=tokyonight" />
+  <p align="center" >  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=tokyonight" /></p>
 
