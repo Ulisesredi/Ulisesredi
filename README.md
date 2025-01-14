@@ -19,6 +19,3 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulisesredi&layout=compact&theme=tokyonight" />
 
-## My personal favorite repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ulisesredi&repo=Monthly-Budget&theme=tokyonight)](https://github.com/Ulisesredi/Monthly-Budget)
