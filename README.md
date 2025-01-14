@@ -1,8 +1,8 @@
 # Hi there, I'm Ulises ([@Ulisesredi](https://www.linkedin.com/in/ulises-redi-377a52206/))
 
-## I'm a Fullstack Developer
+## About me:
 - 💻 Full Stack Developer
-- 🔨 Currently developing for [OhMD](https://www.ohmd.com/)
+- <b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Currently developing for [OhMD](https://www.ohmd.com/)</b> 
 
 ## You can find me at:
 
