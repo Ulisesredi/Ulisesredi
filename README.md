@@ -14,13 +14,10 @@
 
 ## 🌱 Currently Learning:
 I'm currently trying to get deeper on backend technologies, and some other tools, to complement my frontend experience. For this i'm currently learning:
-- TypeORM
-- Docker
-- Node.js
+- Nest.js
 
 ## 🏃 Next Steps:
 - GraphQL Server
-- Nest.js
 - AWS
 
 ## You can find me at:
