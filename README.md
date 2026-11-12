@@ -34,20 +34,6 @@ Built product experiences with Next.js, TypeScript, GraphQL, and Twilio, includi
 **Backend and delivery:** Node.js · NestJS · PostgreSQL · Elixir · Ash · Phoenix · AWS · Docker · CI/CD  
 **Quality and observability:** Jest · Datadog · Grafana · New Relic
 
-## Selected personal projects
-
-These public repositories are POC and learning projects; most of my professional product work is in private company repositories.
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [NestJS Task Manager](https://github.com/Ulisesredi/nestjs-ts-task-manager) | Task-management API project built with a typed Node.js backend. | TypeScript · NestJS |
-| [Node.js / Express E-commerce](https://github.com/Ulisesredi/nodejs-ts-express-e-commerce) | E-commerce backend project exploring Express and TypeScript. | TypeScript · Express |
-| [Monthly Budget](https://github.com/Ulisesredi/Monthly-Budget) | Small app for tracking monthly income and expenses. | JavaScript |
-
-## A little more about me
-
-Based in Entre Ríos, Argentina, and open to remote product-focused frontend and frontend-heavy software engineering roles. Outside work, I enjoy playing guitar and staying active.
-
 ---
 
 
